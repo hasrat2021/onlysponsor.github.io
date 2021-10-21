@@ -1,0 +1,36 @@
+/*home*/
+#home{
+  height: 570px
+}
+.main{
+  top:60%;
+		right:7%;
+}
+/*contact*/
+.box1{
+  width: 95%
+}
+.box1 p{
+  font-size: 1rem;
+    padding: 10px 15px 
+}
+#pic{
+  flex-direction: column;
+  align-items: center;
+  
+}
+#pic img{
+  width: 300px;
+  height: 250px;
+}
+#intro h2{
+  text-align: center;
+  padding: 5px;
+}
+#intro p{
+  font-size: 15px;
+  padding: 3px;
+}
+#headings{
+  font-size: 1.7rem
+}
